@@ -1,0 +1,68 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+body {
+  background-color: greenyellow;
+}
+
+.MOHANNAD {
+  padding-top: 10px;
+  padding-left: 50%;
+}
+
+/* h1 {
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+} */
+
+
+@media screen and (min-width: 380px) {
+  .m {
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+}
+
+@media screen and (max-width: 1900px) {
+
+  .m {
+      text-align: center;
+  }
+
+  h1 {
+      text-align: center;
+      color: black;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+    
+}
+
+
+@media screen and (min-width: 1800px) {
+
+    .m {
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+        color: black;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+      
+  }
+  

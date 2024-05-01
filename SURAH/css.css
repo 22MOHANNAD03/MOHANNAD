@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+@media screen and (min-width: 400px) {
+    iframe {
+      padding: 5px;
+      width: 404px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    iframe {
+      padding: 5px;
+      width: 404px;
+    }
+}  
+
+@media screen and (min-width: 1000px) {
+    .m {
+        padding-left: 19%;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .n {
+        padding-top: 5%;
+    }
+}
